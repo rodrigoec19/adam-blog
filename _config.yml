@@ -1,6 +1,6 @@
 title: MantaPro - rodrigoec19
 email: rodrigo.dev@tuta.io
-description: Manta es asi... # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
  Este es un blog de imágenes e información de la ciudad de Manta.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
